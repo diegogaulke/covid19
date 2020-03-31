@@ -6,7 +6,7 @@ The intend is to help researchers with data and tools that may help their resear
 
 ### Please, keep all the content in english.
 
-If you submit code, keep it as simple as possible commit all the documentation to run it the easiest way.
+If you submit code, keep it as simple as possible and commit all the documentation to run it the easiest way.
 
 ## Index
 1. [Data](/covid01-data)
