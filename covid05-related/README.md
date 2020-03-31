@@ -1,5 +1,7 @@
 # Related articles
 
+### [WEG to produce artificial ventilators for patients tested positive for COVID-19](https://www.weg.net/institutional/US/en/news/products-and-solutions/weg-to-produce-artificial-ventilators-for-patients-tested-positive-for-covid-19)
+
 ### [Virgin Orbit develop and design mass producible ventilators for COVID-19 patients](https://www.virgin.com/news/virgin-orbit-develop-and-design-mass-producible-ventilators-covid-19-patients)
 
 ### [Risk and Vulnerability Based Interdiction Response](https://www.dietid.com/covid19)
