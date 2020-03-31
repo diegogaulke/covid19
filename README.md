@@ -15,5 +15,6 @@ If you submit code, keep it as simple as possible and commit all the documentati
 4. [Trials](/covid04-trials)
 5. [Related articles](/covid05-related)
 6. [Economic impacts](/covid06-economic)
+7. [Task force](/covid07-tasks)
 
 ## We need your help to keep this repository, removing broken links and keeping it updated.
