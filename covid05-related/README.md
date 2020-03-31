@@ -1,5 +1,7 @@
 # Related articles
 
+### [Virgin Orbit develop and design mass producible ventilators for COVID-19 patients](https://www.virgin.com/news/virgin-orbit-develop-and-design-mass-producible-ventilators-covid-19-patients)
+
 ### [Risk and Vulnerability Based Interdiction Response](https://www.dietid.com/covid19)
 
 ### [World War II Mobilization in Men’s Work Lives: Continuity or Disruption for the Middle Class](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5027899/)
